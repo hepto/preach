@@ -1,1 +1,7 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Preach
+subtitle: Product & Software Development Coaching
+
+# Build settings
+markdown: kramdown
+exclude: [vendor, Gemfile, Gemfile.lock, README.md, CNAME]
